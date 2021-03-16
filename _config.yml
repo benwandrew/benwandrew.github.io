@@ -1,11 +1,8 @@
 title: ben andrew
 position: apprentice
-affiliation: center for computational brain science, carney institute
+affiliation: ccbs, carney institute
 email: benjamin_andrew@brown.edu
-keywords: minimal academic
 avatar: ./assets/img/benwandrew.png
 favicon: ./assets/img/benwandrew.png
 favicon_dark: ./assets/img/benwandrew.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
