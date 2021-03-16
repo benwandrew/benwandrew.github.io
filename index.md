@@ -15,7 +15,7 @@ currently, i'm an apprentice researcher and technologist affiliated with the car
 - **perception:** bodily perception, time perception
 - **learning:** social learning, structure learning
 - **self-involving cognition:** theory-of-self, self-referential reasoning & decision-making
-- **mental health:** internalizing disorders, psychosomatic illness, self-injury (direct and indirect)
+- **mental health:** internalizing disorders, psychosomatic illness, impulsivity, self-injury (direct and indirect)
 
 ## other interests
 
