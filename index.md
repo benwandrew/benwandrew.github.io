@@ -19,6 +19,6 @@ currently, i'm an apprentice researcher and technologist affiliated with the car
 
 ## other interests
 
-- **contemplative practice:** indo-tibetan meditation, dzogchen, body scanning
 - **translational research tools**
+- **contemplative practice:** indo-tibetan meditation, dzogchen, body scanning
 - **the outdoors:** i love to <a href="https://www.instagram.com/benwandrew/" target="_blank">ride bikes and ski</a>, which i experience as communion with nature and friends, atop such elegant human ingenuity, powered by the marvel of metabolism, for the sake of fun and flourishing.
