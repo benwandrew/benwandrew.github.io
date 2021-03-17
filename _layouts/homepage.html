@@ -25,6 +25,8 @@
   </head>
   <body>
     <div class="wrapper">
+      <div id=container class=clearfix>
+      <div id=supplement>
       <header>
         
         {% if site.avatar %}
@@ -46,6 +48,8 @@
         {% endif %}
 
       </header>
+      </div>
+      <div id=main role=main>
       <section>
 
       {{ content }}
@@ -55,6 +59,7 @@
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
 
       </section>
+      </div>
       <footer>
         <div class="social-icons">
 
