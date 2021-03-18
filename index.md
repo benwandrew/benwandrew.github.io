@@ -10,10 +10,9 @@ currently, i'm an apprentice researcher and technologist affiliated with the car
 
 ## research interests
 
-- **perception:** bodily perception, time perception
-- **learning:** social learning, structure learning
-- **self-involving cognition:** theory-of-self, self-referential reasoning & decision-making
-- **mental health:** internalizing disorders, psychosomatic illness, impulsivity, self-injury
+- **perception:** bodily, temporal
+- **reasoning & decision-making:** social (theory of mind), self-referential (theory of self)
+- **mental health:** internalizing tendencies, psychosomatic problems, impulsivity, self-injury
 
 ## other interests
 
