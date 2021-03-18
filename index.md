@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-i'm curious about the rudiments of mind and mental illness; i'm motivated by the prospect of enhancing behavioral health care, deepening therapeutic relationships, and improving lives; and i value reason, autonomy, curiosity, creativity, honesty, humility, compassion, and communion.
+i'm curious about the rudiments of mind and mental illness; i'm motivated by the prospect of enhancing behavioral health care, deepening therapeutic relationships, and improving lives; and i value reason, autonomy, curiosity, creativity, perseverance, resilience, honesty, humility, compassion, and communion.
 
 questions that pique my curiosity center around human self-involving cognition, including its structure, development, computational basis, visceral underpinnings, social influences, and psychopathological implications. i’m particularly interested in how our bodies and other minds shape self-related knowledge and decision-making; in other words, the interface between bodily perception, social learning, and self-knowledge, evaluation, and control. i hope to formalize processes that underlie this interface, characterize ways that those processes contribute to internalizing problems, psychosomatic symptoms, and self-destructive thought and behaviors, and translate such insights into real-world tools that enhance behavioral health care and improve treatment outcomes.
 
