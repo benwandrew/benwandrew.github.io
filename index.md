@@ -12,7 +12,7 @@ currently, i am an apprentice researcher and technologist with the carney center
 
 - **perception:** bodily, temporal
 - **reasoning & decision-making:** social (theory of mind), self-referential (theory of self)
-- **mental health:** internalizing tendencies, psychosomatic symptoms, self-injurious behaviors (eating disorders and nssi)
+- **mental health:** internalizing tendencies, psychosomatic symptoms, self-injurious behaviors (e.g., disordered eating, nssi)
 
 ## other interests
 
