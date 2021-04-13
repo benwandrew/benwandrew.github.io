@@ -12,7 +12,7 @@ currently, i am an apprentice researcher and technologist working with <a href="
 - perception: bodily, temporal
 - reasoning & decision-making: social (theory of mind), self-referential (theory of self)
 - mental health: internalizing tendencies, psychosomatic symptoms, self-injurious behaviors (e.g., disordered eating, nssi)
-- methods: experimental design optimization (e.g, ADO), psychometric measurement, individual differences & longitudinal data in digital phenotyping
+- methods: experimental design optimization (e.g, ADO), n-of-1 trials, psychometric measurement, individual differences & longitudinal data in digital phenotyping
 
 ### other interests:
 - biostatistics in mental health, psychiatric epidemiology, translational research tools
