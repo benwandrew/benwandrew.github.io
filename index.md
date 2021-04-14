@@ -14,7 +14,7 @@ currently, i am an apprentice researcher working with <a href="https://fpetzschn
 - mental health: internalizing tendencies, psychosomatic symptoms, self-injurious behaviors (e.g., disordered eating, nssi)
 - methods: experimental design optimization (e.g, ADO), n-of-1 trials, psychometric measurement, individual differences & longitudinal data in digital phenotyping
 
-### other interests:
+### other interests
 - biostatistics in mental health, psychiatric epidemiology, translational research tools
 - contemplative practice: indo-tibetan meditation, body scanning
 - the arts: poetry, harmonica
