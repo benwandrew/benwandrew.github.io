@@ -11,7 +11,7 @@ currently, i am an apprentice researcher working with <a href="https://fpetzschn
 ### research interests
 - perception: bodily (e.g., interoception), temporal
 - reasoning & decision-making: social (theory of mind), self-referential (theory of self)
-- mental health: internalizing disorders, psychosomatic symptoms, transdiagnostic mechansims of self-destructive behaviors (e.g., disordered eating, nssi)
+- mental health: internalizing disorders, psychosomatic symptoms, transdiagnostic dimensions of self-destructive behaviors (e.g., disordered eating, nssi)
 - methods: experimental design optimization (e.g, ADO), multivariate longitudinal measurement, real-time monitoring, digital phenotyping
 
 ### other interests
