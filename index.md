@@ -12,7 +12,7 @@ currently, i am an apprentice researcher working with <a href="https://fpetzschn
 - perception: bodily (e.g., interoception), temporal
 - reasoning & decision-making: social (theory of mind), self-referential (theory of self)
 - mental health: internalizing tendencies, psychosomatic symptoms, transdiagnostic dimensions of self-destructive behaviors (e.g., disordered eating, nssi)
-- methods: experimental design optimization (e.g, ADO), multivariate longitudinal measurement, real-time sampling, digital phenotyping
+- methods: experimental design optimization (e.g, ADO), multivariate longitudinal measurement, n-of-1 trials, idiographic models, real-time sampling, digital phenotyping
 
 ### other interests
 - translational research tools, biostatistics in mental health, psychiatric epidemiology
