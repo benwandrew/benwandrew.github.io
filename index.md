@@ -12,7 +12,7 @@ currently, i am an apprentice researcher working with <a href="https://fpetzschn
 - bodily regulation, somatic signaling, interoception
 - social & self-referential reasoning & decision-making
 - mental health: internalizing tendencies, psychosomatic symptoms, transdiagnostic dimensions of self-destructive behaviors (e.g., disordered eating, nssi)
-- methods: experimental design optimization (e.g, ADO), multivariate longitudinal measurement, individual differences, real-time sampling, digital phenotyping
+- methods: experimental design optimization (e.g, ADO), multivariate longitudinal measurement, individual differences, real-time sampling
 
 ### other interests
 - translational research tools 
