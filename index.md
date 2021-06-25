@@ -4,15 +4,15 @@ layout: homepage
 
 i am curious about the rudiments of mind and mental illness; i am motivated by the prospect of enhancing behavioral health care, deepening therapeutic relationships, and improving lives; and i value reason, autonomy, curiosity, creativity, honesty, humility, compassion, and communion.
 
-questions that pique my curiosity center around human self-involving cognition, including its structure, development, computational basis, visceral underpinnings, social influences, and psychopathological implications. i am particularly interested in how our bodies and our interactions with other people shape how we think about ourselves and behave accordingly; in other words, the interface between bodily perception, social reasoning, and self-knowledge, self-evaluation, and self-control. i hope to formalize processes that underlie this interface, characterize ways that those processes contribute to internalizing problems, (psycho)somatic symptoms, and self-destructive thought and behaviors, and translate such insights into real-world tools that enhance behavioral health care. more generally, i am interested in measuring and modeling how cognitive and psychological variation across people relates to clinical outcomes.
+generally, i am interested in building computational and statistical tools that enhance clinical insight and acumen; that is, tools which improve clinicians' abilities to detect, understand, predict, and treat mental illness. i hope to augment and streamline such abilities so that providers can focus on what they do best and what matters most - connecting with and caring for individuals experiencing mental distress.
 
 currently, i am an apprentice researcher working with <a href="https://fpetzschner.com/" target="_blank">frederike petzschner</a> at the <a href="https://www.brown.edu/carney/ccbs" target="_blank">carney center for computational brain science (ccbs)</a>. as a member of the ccbs team, i am honing my scientific and technical skills, contributing to basic and applied research agendas, and helping build an interdisciplinary program that bridges academia and industry. i studied mathematics, economics, and physics before gravitating toward the cognitive and clinical sciences, and i continue to think and probe across disciplines.
 
-### research interests
-- bodily regulation, somatic signaling, interoception
-- social & self-referential reasoning & decision-making
-- mental health: internalizing tendencies, psychosomatic symptoms, transdiagnostic dimensions of self-destructive behaviors (e.g., disordered eating, nssi)
-- methods: experimental design optimization (e.g, ADO), multivariate longitudinal measurement, individual differences, real-time sampling
+### current research interests
+- aversive learning in the context of chronic pain and other (psycho)somatic symptoms
+- dynamic relationships between mood and somatic symptoms
+- psychometrics (esp multivariate longitudinal measurement of individual differences)
+- methods: adaptive methods (esp via active learning), real-time sampling, within-person prediction and intervention
 
 ### other interests
 - translational research tools 
