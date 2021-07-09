@@ -12,7 +12,7 @@ currently, i am an apprentice researcher working with <a href="https://fpetzschn
 - aversive learning in the context of chronic pain and other (psycho)somatic symptoms
 - temporal dynamics and contextual relationships between mood and somatic symptoms
 - psychometrics (esp multivariate longitudinal measurement of individual differences)
-- methods: adaptive algorithms (eg, active learning in self-report questionnaires), real-time sampling, dynamic treatment regimes (DTRs), person-specific predictive models
+- methods: optimal design, active learning (adaptive self-report questionnaires), simulation-based inference, dynamic treatment regimes (DTRs)
 
 ### other interests
 - translational research tools 
